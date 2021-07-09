@@ -9,7 +9,7 @@ I am a Data Science / Machine Learning enthusiast and lifelong student of the ga
 <a href="mailto:ericgbanta@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 ### :raising_hand_man:&nbsp;&nbsp; A little about me
-- :toolbox:&nbsp;&nbsp;Tools I like using are: Python, SQL, Spark & Jupyter
+- :toolbox:&nbsp;&nbsp;Tools I like using: Python, SQL, Spark & Jupyter
 - :pencil2:&nbsp;&nbsp;Tech I want to learn: Ruby, Deep Learning, Swift & Unity
 - :open_book:&nbsp;&nbsp; I am pursuing a MS in CS at Georgia Tech
 - :movie_camera:&nbsp;&nbsp; Big Star Wars and MCU stan
