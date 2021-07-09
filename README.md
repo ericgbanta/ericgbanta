@@ -14,7 +14,6 @@ I am a Data Science / Machine Learning enthusiast and lifelong student of the ga
 - :open_book:&nbsp;&nbsp; I am pursuing a MS in CS at Georgia Tech
 - :movie_camera:&nbsp;&nbsp; Big Star Wars and MCU stan
 - :basketball:&nbsp;&nbsp; Lakers all day!
-<br>
 
 ### :bar_chart:&nbsp;&nbsp;	GitHub Stats
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ericgbanta&show_icons=true&locale=en&layout=compact&theme=radical" alt="ericgbanta" /></p>
