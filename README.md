@@ -17,8 +17,6 @@ I am a Data Science / Machine Learning enthusiast and lifelong student of the ga
 
 ### :bar_chart:&nbsp;&nbsp;	GitHub Stats
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ericgbanta&show_icons=true&locale=en&layout=compact&theme=radical" alt="ericgbanta" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ericgbanta&theme=radical" alt="ericgbanta" /></p>
-
 <!---
 ericgbanta/ericgbanta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
