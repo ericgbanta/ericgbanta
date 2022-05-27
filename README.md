@@ -6,7 +6,6 @@
 I am a Data Science / Machine Learning enthusiast and lifelong student of the game! I currently live and work in Orange County, CA. <br> Let's connect!
 
 <a href="https://www.linkedin.com/in/ericgbanta"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:ericgbanta@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 ### :raising_hand_man:&nbsp;&nbsp; A little about me
 - :toolbox:&nbsp;&nbsp;Tools I like using: Python, SQL, Spark & Jupyter
