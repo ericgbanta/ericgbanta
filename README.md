@@ -7,13 +7,6 @@ I am a Data Science / Machine Learning enthusiast and lifelong student of the ga
 
 <a href="https://www.linkedin.com/in/ericgbanta"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-### :raising_hand_man:&nbsp;&nbsp; A little about me
-- :toolbox:&nbsp;&nbsp;Tools I like using: Python, SQL, Spark & Jupyter
-- :pencil2:&nbsp;&nbsp;Tech I want to learn: Ruby, Deep Learning, Swift & Unity
-- :open_book:&nbsp;&nbsp; I am pursuing a MS in CS at Georgia Tech
-- :movie_camera:&nbsp;&nbsp; Big Star Wars and MCU stan
-- :basketball:&nbsp;&nbsp; Lakers all day!
-
 ### :bar_chart:&nbsp;&nbsp;	GitHub Stats
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ericgbanta&show_icons=true&locale=en&layout=compact&theme=radical" alt="ericgbanta" /></p>
 <!---
